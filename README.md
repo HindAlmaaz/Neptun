@@ -12,7 +12,10 @@ Technologies & Tools:
 Demo of our App:
 
 arabic virsion:
-https://user-images.githubusercontent.com/107318613/212109877-c950dcd7-7296-45a7-b34d-5f7ed71c3068.mov
+
+
+https://user-images.githubusercontent.com/107318613/212110994-1e971efc-a673-47fb-afd8-72092e5963c8.mov
+
 
 english virsion:
 
