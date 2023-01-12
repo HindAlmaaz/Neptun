@@ -1,0 +1,48 @@
+/* 
+  Localizable.strings
+  Nebton
+
+  Created by Hind Almaaz on 16/06/1444 AH.
+  
+*/
+"CardTitle1"="Neptune and Planet Earth";
+"CardSub1"="Help Neptune explore planet Earth";
+"CardTitle2"="The Apple of Neptune";
+"CardSub2"="Help Neptune pick fresh apples";
+"Story1"="Neptune is a cat from the planet Neptune
+decided to land on earth and discover it.
+After hearing some interesting stories
+about the wonders of the earth.
+Upon the arrival of Neptune,  He saw Ahmed  standing looking at some lights
+Neptune wondered and asked out loud: What is this??
+It was the first time he saw these lights in their wondrous colors.
+Ahmed replied: It's the traffic light. We stop according to the lighted color.
+If it is red we stop, if it is yellow we prepare and if it is red we go.
+Neptune wondered and said: Which green are you talking about? Do you mean this white?
+Ahmed said: No, it is green.
+Neptune was puzzled";
+"Story2"="The next day, Neptune went out for a walk and explored the city.
+Neptune saw many things in different colors that he was not used to seeing in his planet Neptune.
+During his walk, he felt very hungry.
+He decided to take a short break to enjoy a snack.
+Neptune saw a fruit seller and stopped by to buy some apples.
+But he was surprised that the man sells rotten apples.
+An angry Neptune shouted at the man:
+Hey man! Do you want to cheat me?
+The man was surprised and said:
+what are you talking about?
+Neptune said:
+Don't you see your apples are rotten and moldy?!
+The people gathered at the loudness of the discussion between Neptune and the fruit seller, and told Neptune that he had to apologize and that the apples were indeed fresh.
+Neptune was puzzled";
+"Q1"="Help Neptune choose green";
+"Q2"="Help Neptune find fresh apples";
+"AlertTitle1"="Well done";
+"Alertsub1"="You helped Neptune learn about planet Earth";
+"AlertTitle2"="Nice try, you have the power of Neptune's eyesight";
+"Alertsub2"="Neptune's eyesight";
+
+"Select a language" = "Select a language" ;
+"Arabic" = "Arabic";
+"English" = "English";
+"Back" = "Back";
