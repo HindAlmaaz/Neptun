@@ -6,7 +6,7 @@ Solution Concept: A platform for colorblind kids who need to understand the colo
 
 >Technologies & Tools:
 
-_SwiftUI
+# SwiftUI
 
 _Accessibility
 
