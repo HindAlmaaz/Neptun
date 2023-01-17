@@ -19,7 +19,7 @@ A platform for colorblind kids who need to understand the color deference to be 
 - Combine
 
 - AVFoundation
-- 
+
 
 >Demo of our App:
 
